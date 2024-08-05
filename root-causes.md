@@ -8,7 +8,7 @@ Please copy-paste the final answer that you obtained from the AI for each questi
 
 **Question**: What is the underlying issue that causes this problem to occur and from which component (file) of this project does this issue originate?
 
-**Answer**: *Please fill this in*
+**Answer**: The database manager file cweijan.vscode-mysql-client2 was missing. Downloaded the updated file and was able to run the test.
 
 
 ## Problem 2
@@ -17,5 +17,5 @@ Please copy-paste the final answer that you obtained from the AI for each questi
 
 **Question**: What is the underlying issue that causes this problem to occur and from which component (file) of this project does this issue originate?
 
-**Answer**: *Please fill this in*
+**Answer**: The file cweijan.vscode-mysql-client2 is missing some codes.
 
